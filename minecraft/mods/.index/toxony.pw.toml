@@ -1,0 +1,18 @@
+filename = 'toxony-0.10.7.jar'
+name = 'Toxony'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '0.10.7'
+
+[download]
+hash = 'ed04a081262e0cc71a1367415c598dd85f866e6612291f5f49f98403065bc3742c467e19dde3481f5489578e5bdd8ca8ac74d5bc20bc307981d6a7c28907ebcf'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/XnNmSWmE/versions/pDu34HNo/toxony-0.10.7.jar'
+
+[update.modrinth]
+mod-id = 'XnNmSWmE'
+version = 'pDu34HNo'

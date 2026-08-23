@@ -1,0 +1,25 @@
+filename = 'kubejsable-1.1.0.jar'
+name = 'KubeJSable'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1.0'
+
+[download]
+hash = '5c92e42887781f6d5db5520a6d74c63de44e496dc01079244419778fe1ff0edc34393357dcede85e852a51461cf2f92a1cc03789d871c4675aa0b86b58258c3d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/aH1sOU2k/versions/jxjUAAAq/kubejsable-1.1.0.jar'
+
+[update.modrinth]
+mod-id = 'aH1sOU2k'
+version = 'jxjUAAAq'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'T9PomCSv'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'umyGl7zF'
+type = 'REQUIRED'

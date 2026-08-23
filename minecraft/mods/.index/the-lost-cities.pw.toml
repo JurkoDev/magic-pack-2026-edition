@@ -1,0 +1,21 @@
+filename = 'lostcities-1.21-8.4.1.jar'
+name = 'The Lost Cities'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '1.21-8.4.1'
+
+[download]
+hash = '0cf8cfee26c74fd148223961c542a78abd44992e134ea9559b3ff01571740bf0edfec2eb058eb29315d5b3010ffe362b1d0ab1df2f67628adcb044949d5d1e00'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/8VDCUS3b/versions/ZcYBYKq5/lostcities-1.21-8.4.1.jar'
+
+[update.modrinth]
+mod-id = '8VDCUS3b'
+version = 'ZcYBYKq5'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'Eyw0UxEx'
+type = 'OPTIONAL'

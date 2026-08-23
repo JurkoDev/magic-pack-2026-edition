@@ -1,0 +1,18 @@
+filename = 'cc_spatial_projector-0.1.0.jar'
+name = 'CC: Spatial Projector'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'alpha'
+x-prismlauncher-version-number = '0.1.0'
+
+[download]
+hash = 'ac0ef4daf6180caadc3ca9fe2f450b309695adb7e0869ae4341d42a0063a463edb592dabf00bdff76547314740f154b70f35b4eac87783f0caa58a5c6bc79a75'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/vcgbtkpD/versions/U5woeSNw/cc_spatial_projector-0.1.0.jar'
+
+[update.modrinth]
+mod-id = 'vcgbtkpD'
+version = 'U5woeSNw'

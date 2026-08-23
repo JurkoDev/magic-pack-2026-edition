@@ -1,0 +1,25 @@
+filename = 'vineryjs-1.0.0.jar'
+name = 'VineryJS'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0'
+
+[download]
+hash = 'a8f86dbc9ac02fb6a3edbd6c62a9a4e4173d85d0b284ef7b3dfa111d96293589265e6b9b197ed43995ef663fcd0616f8c4199dd506e879e4c4c24b3f1b7c013f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/NzjRrLbn/versions/Oqqjwhir/vineryjs-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'NzjRrLbn'
+version = 'Oqqjwhir'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1DWmBJVA'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'umyGl7zF'
+type = 'REQUIRED'

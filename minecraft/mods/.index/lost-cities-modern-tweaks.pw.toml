@@ -1,0 +1,21 @@
+filename = 'lostcities-modern-tweaks-v2.0.7.jar'
+name = 'Lost Cities Modern Tweaks'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.0.7'
+
+[download]
+hash = '4af60f8a3ac77454da44e351d1c57c7bc360e95318864b7bfc159e61f6d242278c056da95da0de2a5ee98af1e6fe91ee6a54f81f20cf031e093100b95dd1cfe0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/HdIQwHGq/versions/jSiag2bY/lostcities-modern-tweaks-v2.0.7.jar'
+
+[update.modrinth]
+mod-id = 'HdIQwHGq'
+version = 'jSiag2bY'
+
+[[x-prismlauncher-dependencies]]
+addonId = '8VDCUS3b'
+type = 'REQUIRED'

@@ -1,0 +1,18 @@
+filename = 'selfexpression_romashka_edition-0.0.4-neoforge-1.21.1.jar'
+name = 'Selfexpression: Romashka edition'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0'
+
+[download]
+hash = 'efe09813332c77861071356e2e987df125ec32e6528343aa6ef2cd4f325304e62c5a1e78b34434968f422ab2a10e7874e85aaf72af0ede016ed1932a77e62a43'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/KlDsa1p2/versions/qJQJalTa/selfexpression_romashka_edition-0.0.4-neoforge-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'KlDsa1p2'
+version = 'qJQJalTa'

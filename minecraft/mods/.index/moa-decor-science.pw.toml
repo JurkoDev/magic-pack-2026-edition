@@ -1,0 +1,49 @@
+filename = 'MOAdecor SCIENCE 1.21.1.A.jar'
+name = 'MOA DECOR: SCIENCE'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'MOAdecor SCIENCE 1.21.1.Ajar'
+
+[download]
+hash = 'aa46730381f661784ba062bbf3eeb50c4aa60cf8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6521601
+project-id = 701517
+
+[[x-prismlauncher-dependencies]]
+addonId = '908847'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1012624'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '892530'
+type = 'EMBEDDED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '920001'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '701524'
+type = 'EMBEDDED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '701502'
+type = 'EMBEDDED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '701473'
+type = 'EMBEDDED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '853639'
+type = 'EMBEDDED'
